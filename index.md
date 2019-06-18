@@ -8,4 +8,4 @@ author: Navil Shah
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Having around 7 plus years of experience in IT. Been working as passionate member of team, making your business as my own and finding out the best solutions I could help you provide to your clients and business. Using variety of skills from Research -> wireframe -> design -> develop. In all major segments. Desktop application, Mobile Application and Website and Web Application.
